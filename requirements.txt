@@ -1,0 +1,7 @@
+#Type "pip install -r requirements.txt"
+Pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
